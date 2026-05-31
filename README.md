@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Kalyan+Reddy+Daida+%F0%9F%91%8B;Founder+of+StackSimplify;Teaching+383%2C000%2B+Engineers+Worldwide;Cloud+%E2%80%A2+DevOps+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+MLOps;Let's+Simplify+Tech+Together+%F0%9F%9A%80" alt="StackSimplify" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Rohit+Mondal+%F0%9F%91%8B;Founder+of+StackSimplify;Teaching+383%2C000%2B+Engineers+Worldwide;Cloud+%E2%80%A2+DevOps+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+MLOps;Let's+Simplify+Tech+Together+%F0%9F%9A%80" alt="StackSimplify" />
 
 <br/>
 
