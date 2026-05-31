@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm **Kalyan Reddy Daida**, founder of **StackSimplify**. For the last decade I've been teaching cloud and DevOps to engineers around the world. Today **383,000+ students with 32,000+ reviews** learn AWS, Azure, GCP, Kubernetes, Terraform, and MLOps through my hands-on courses.
+I'm **Rohit Mondal**, founder of **StackSimplify**. For the last decade I've been teaching cloud and DevOps to engineers around the world. Today **383,000+ students with 32,000+ reviews** learn AWS, Azure, GCP, Kubernetes, Terraform, and MLOps through my hands-on courses.
 
 🎯 **The mission:** turn complex cloud-native tech into production-ready skills you can ship on Monday morning.<br/>
 🛠️ **The method:** hands-on demos, real-world projects, no fluff, no slideware.<br/>
